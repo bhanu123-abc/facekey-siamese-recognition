@@ -1,0 +1,19 @@
+# Python and local tooling
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+
+# Private biometric images and runtime captures
+application_data/
+data/
+
+# Trained model and checkpoints (large files; keep local unless using Git LFS)
+siamesemodel.h5
+training_checkpoints/
+
+# Local configuration and editor files
+.env
+.vscode/
+.idea/

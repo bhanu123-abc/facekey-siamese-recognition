@@ -1,0 +1,7 @@
+{
+  "detection_threshold": 0.48,
+  "num_live_frames": 5,
+  "num_enrollment_photos": 12,
+  "use_face_crop": true,
+  "frame_delay_ms": 150
+}
